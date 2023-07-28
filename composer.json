@@ -1,5 +1,5 @@
 {
-    "name": "greggilbert/recaptcha",
+    "name": "algoritma/laravel-recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
 	"homepage": "http://github.com/greggilbert/recaptcha",
@@ -12,8 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "~5.1"
+        "php": ">=5.3.0"
     },
     "autoload": {
         "classmap": [
